@@ -1,2 +1,1 @@
-#KyleCarbonell
-This is for my ITWM83 Activity
+This is an activity of my ITWM83 Subject
